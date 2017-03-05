@@ -2,7 +2,8 @@
 {
     "editor.lineNumbers": "off",
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 80,
+    "editor.wordWrapColumn": 60,
+    "editor.rulers": [60],
     "editor.renderWhitespace": "none",
     "editor.renderLineHighlight": "none",
     "editor.autoClosingBrackets": false,
