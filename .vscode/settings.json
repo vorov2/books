@@ -1,8 +1,8 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "editor.lineNumbers": "off",
-    "editor.wordWrap": true,
-    "editor.wrappingColumn": 80,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
     "editor.renderWhitespace": "none",
     "editor.renderLineHighlight": "none",
     "editor.autoClosingBrackets": false,
