@@ -6,10 +6,12 @@
     "editor.rulers": [60],
     "editor.renderWhitespace": "none",
     "editor.renderLineHighlight": "none",
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": "never",
     "editor.quickSuggestions": false,
     "editor.selectionHighlight": false,
     "editor.minimap.enabled": false,
     "workbench.editor.showIcons": false,
-    "workbench.iconTheme": null
+    "workbench.iconTheme": null,
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never"
 }
