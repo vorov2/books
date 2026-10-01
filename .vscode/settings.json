@@ -17,5 +17,10 @@
     "workbench.editor.showIcons": false,
     "workbench.iconTheme": "vscode-icons",
     "editor.autoClosingQuotes": "never",
-    "editor.autoSurround": "never"
+    "editor.autoSurround": "never",
+    "[markdown]": {        
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 60,
+        "editor.rulers": [60]
+    }
 }
